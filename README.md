@@ -6,4 +6,4 @@
 
 3) run 'chmod +x install.sh'
 
-4) sudo ./install.sh
+4) run 'sudo ./install.sh'
